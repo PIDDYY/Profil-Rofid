@@ -1,2 +1,6 @@
 # Profil-Rofid
-Portofolio sederhana menggunakan HTML
+Profil Rofid adalah sebuah website sederhana yang menggunakan HTML yang berisi profil singkat tentang saya, Rofid Fadhil. Website ini bisa menjadi branding saya dalam dunia pemrograman, yg mana melalui website ini orang-orang bisa mengetahui dan mengenal saya, serta mengetahui kemampuan yang saya miliki. Tampilan website dibuat sederhana agar mudah dipahami dan nyaman dilihat.
+
+Di dalam website ini memikili beberapa bagian, seperti perkenalan singkat, daftar skill , daftar project dalam bentuk tabel yang memiliki link GitHub didalamny, video perkenalan, form kontak, serta tautan ke media sosial. Website ini dibuat menggunakan struktur dasar HTML seperti 'head' dan 'body', kemudian menggunakan tag 'h1' dan 'h2' untuk judul, 'p' untuk teks deskripsi, 'ol' untuk daftar skill, 'table' untuk menampilkan project, 'video' untuk video perkenalan, serta 'form', 'input', dan 'textarea' untuk form kontak. Semua elemen tersebut digunakan agar informasi tersusun dengan rapi dan mudah diakses.
+
+Secara keseluruhan, website Profil Rofid ini masih sederhana dan dibuat sebagai langkah awal saya dalam membangun website profil pribadi. Website ini akan terus saya kembangkan seiring dengan bertambahnya pengalaman dan kemampuan saya di bidang pemrograman, khususnya dalam pengembangan web.
